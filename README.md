@@ -1,5 +1,6 @@
-## Hi there 👋
+👋 Hello, I'm Harry, an astrophysicist, currently based in Athens.
 
+📚 **Education:** MSc in Advanced Physics with specialisation in Astrophysics and Space Physics
 <!--
 **psarakish/psarakish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
