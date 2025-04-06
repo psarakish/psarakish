@@ -1,4 +1,4 @@
-👋 Hello, I'm Harry, an astrophysicist, currently based in Athens.
+👋 Hello, I'm Harry, an astrophysicist, currently based in Athens, Greece.
 
 :zap: **Skilss:**
 
