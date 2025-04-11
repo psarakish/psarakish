@@ -2,7 +2,7 @@
 
 :zap: **Skilss:**
 
-* **Languages**: Python, SQL, C++
+* **Languages**: Python, R, C++
 * **Data Visualization:** Matplotlib, Seaborn, Tableau
 * **Additional Tools:** Microsoft Excel, Jupyter Notebook, Matlab, LaTeX
 
