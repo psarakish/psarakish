@@ -1,9 +1,10 @@
-👋 Hello, I'm Harry, an astrophysicist, currently based in Copenhagen, Denmark.
+👋 Hello, I'm Harry, an astrophysicist, based in Copenhagen, Denmark. Currently, I am pursuing a second MSc in the field of Earth & Space Physics and Engineering at the
+Technical University of Denmark - DTU
 
 :zap: **Skilss:**
 
 * **Languages**: Python, R, C++
-* **Data Visualization:** Matplotlib, Seaborn, Tableau
+* **Data Visualization:** Matplotlib, Seaborn 
 * **Additional Tools:** Microsoft Excel, Jupyter Notebook, Matlab, LaTeX
 
 📚 **Education:** MSc in Advanced Physics with specialisation in Astrophysics and Space Physics
