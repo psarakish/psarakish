@@ -1,5 +1,5 @@
 👋 Hello, I'm Harry, an astrophysicist, based in Copenhagen, Denmark. Currently, I am pursuing a second MSc in the field of Earth & Space Physics and Engineering at the
-Technical University of Denmark - DTU
+Technical University of Denmark - DTU 🇩🇰
 
 :zap: **Skilss:**
 
